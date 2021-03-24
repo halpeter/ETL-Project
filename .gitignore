@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+
+#Don't add pw to git
+*.etlpw.py
