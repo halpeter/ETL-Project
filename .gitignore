@@ -131,4 +131,4 @@ dmypy.json
 
 
 #Don't add pw to git
-*.etlpw.py
+.etlpw.py
